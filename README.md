@@ -18,7 +18,7 @@ Buatlah Proposal Proyek 3 dalam bentuk Frontend di Github Pages Dengan Ketentuan
 8. Gunakan Hanya Javascript ES6+, pemanggilan atau penggunaan JS selain ES6+ langsung di eliminasi. 
 9. Alamat github pages harus berhubungan dengan topik yang akan dikerjakan, misal : "mau membuat sistem informasi kuliner" maka alamat url github pagenya : kulineryuk.github.io
 10. Satu kelompok maksimal 2 orang, menggunakan url github pages yang sama.
-11. Dikumpulkan menggunakan pomokit release terbaru(versi hari sabtu 7 oktober 2023), masing-masing anggota kelompok menjalankan pomokit. Untuk yang satu kelompok menggunakan URL github pages yang sama.
+11. Dikumpulkan menggunakan [pomokit](https://pomokit.github.io/) release terbaru(versi hari sabtu 7 oktober 2023), masing-masing anggota kelompok menjalankan pomokit. Untuk yang satu kelompok menggunakan URL github pages yang sama.
 12. Meminta restu dari orang tua dengan mengirimkan link restu yang di klik oleh orang tua. Bagi yang melakukan manipulasi nomor orang tua akan langsung di eliminasi. 
 
 ## Opsional sebagai nilai tambah
