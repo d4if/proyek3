@@ -1,6 +1,6 @@
 # proyek3
 Proyek 3 Informatika membangun sebuah aplikasi yang terdiri dari Frontend dan Backend.
-1. Frontend wajib di deploy di github pages
+1. Frontend wajib di deploy di github pages dengan menggunakan Javascript ES6+
 2. Backend di hosting di GCP, AWS, Heroku, VPS, Hosting.
 3. Wajib memiliki Authentikasi menggunakan PASETO.
 4. Semua proses Proyek 3 menggunakan metode belajar Pomodoro dengan aplikasi [pomokit](https://pomokit.github.io/).
