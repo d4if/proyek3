@@ -3,6 +3,7 @@ Proyek 3 Informatika membangun sebuah aplikasi yang terdiri dari Frontend dan Ba
 1. Frontend wajib di deploy di github pages
 2. Backend di hosting di GCP, AWS, Heroku, VPS, Hosting.
 3. Wajib memiliki Authentikasi menggunakan PASETO.
+4. Semua proses Proyek 3 menggunakan metode belajar Pomodoro dengan aplikasi pomokit.
 
 ## Proses Pendaftaran Peserta (Sabtu-Minggu 7-8 Oktober 2023)
 
