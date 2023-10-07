@@ -5,6 +5,13 @@ Proyek 3 Informatika membangun sebuah aplikasi yang terdiri dari Frontend dan Ba
 3. Wajib memiliki Authentikasi menggunakan PASETO.
 4. Semua proses Proyek 3 menggunakan metode belajar Pomodoro dengan aplikasi [pomokit](https://pomokit.github.io/).
 
+# FAQ Proyek 3
+T : Apakah boleh saya tidak membangun frontend di github pages?
+J : Syarat Proyek3 adalah lulus Mata Kuliah Web Service, artinya jika tidak bisa membangun frontend di github pages dipastikan belum menguasi mata kuliah Web Service
+
+T : Apakah boleh saya membangun frontend menggunakan android?
+J : Mata kuliah mobile programming ada di semester 5, masih berjalan. Dibolehkan sebagai nilai tambah, tapi tetap yang di nilai adalah github pages dari JS ES6+.
+
 ## Proses Pendaftaran Peserta (Sabtu-Minggu 7-8 Oktober 2023)
 
 Buatlah Proposal Proyek 3 dalam bentuk Frontend di Github Pages Dengan Ketentuan :
@@ -20,8 +27,6 @@ Buatlah Proposal Proyek 3 dalam bentuk Frontend di Github Pages Dengan Ketentuan
 10. Satu kelompok maksimal 2 orang, menggunakan url github pages yang sama.
 11. Dikumpulkan menggunakan [pomokit](https://pomokit.github.io/) release terbaru(versi hari sabtu 7 oktober 2023), masing-masing anggota kelompok menjalankan pomokit. Untuk yang satu kelompok menggunakan URL github pages yang sama.
 12. Meminta restu dari orang tua dengan mengirimkan link restu yang di klik oleh orang tua. Bagi yang melakukan manipulasi nomor orang tua akan langsung di eliminasi. 
-
-## Opsional sebagai nilai tambah
 
 Jika kamu merasa tertantang di sesi submit proposal ini, kamu boleh menambahkan :
 1. Method POST dari API Publik.
