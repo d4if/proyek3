@@ -23,8 +23,12 @@ Berikut ini adalah daftar repository publik yang ada di setiap bahasa pemrograma
 
 Buatlah endpoint backend micro service dengan langkah-langkah yang wajib minimal dilakukan:
 1. Pastikan sudah memiliki akun Google Cloud Platform(GCP)
-2. Masuk ke Menu Google Cloud Function(GCF) Buat Satu fungsi
-3. Pada fungsi tersebut wajib memanggil dan menggunakan Package yang sudah di buat sebelumnya
+2. Masuk ke Menu Google Cloud Function(GCF) Buat Satu fungsi endpoint
+3. Pada fungsi endpoint tersebut wajib memanggil dan menggunakan Package yang sudah di buat sebelumnya
+4. Endpoint menerima POST dari frontend berupa username dan password
+5. Endpoint mengembalikan token PASETO jika user dan password benar.
+6. Data User dan Password diambil dari basis data.
+7. Password yang disimpan di basis data harus sudah di hash tidak boleh polos.
 
 ## Membuat Frontend di Github Pages
 
