@@ -1,7 +1,7 @@
 # Proyek 3 : Micro Frontend & Micro Service Developer
 Luaran Proyek 3 Informatika adalah membangun sebuah aplikasi yang harus terdiri dari Frontend dan Backend. Dengan ketentuan:
 1. Frontend wajib di deploy di github pages dengan menggunakan konsep serverless micro frontend menggunakan [Javascript ES6+](https://vanillajskit.github.io/)
-2. Backend minimal menggunakan RESTFull, boleh menggunakan web socket atau graphql untuk berinteraksi dengan Frontend.
+2. Backend minimal menggunakan RESTFull dengan menggunaan konsep web service dan package, boleh menggunakan web socket atau graphql untuk berinteraksi dengan Frontend.
 3. Backend wajib di hosting di GCP(Cloud Function/Cloud Run), AWS, Heroku, VPS, Hosting.
 4. Backend wajib menggunakan sistem Authentikasi berbasiskan token [PASETO V4](https://github.com/whatsauth/watoken).
    ![image](https://github.com/d4if/proyek3/assets/11188109/495e3636-2217-41a4-a79f-785820ec026c)
@@ -28,7 +28,7 @@ Buatlah Proposal Proyek 3 dalam bentuk Frontend di Github Pages Dengan Ketentuan
 8. Gunakan Hanya Javascript ES6+, pemanggilan atau penggunaan JS selain ES6+ langsung di eliminasi. 
 9. Alamat github pages harus berhubungan dengan topik yang akan dikerjakan, misal : "mau membuat sistem informasi kuliner" maka alamat url github pagenya : kulineryuk.github.io
 10. Satu kelompok maksimal 2 orang, menggunakan url github pages yang sama.
-11. Dikumpulkan menggunakan [pomokit](https://pomokit.github.io/) release terbaru(versi hari sabtu 7 oktober 2023), masing-masing anggota kelompok menjalankan pomokit. Untuk yang satu kelompok menggunakan URL github pages yang sama.
+11. Dikumpulkan menggunakan [pomokit](https://pomokit.github.io/) release terbaru, masing-masing anggota kelompok menjalankan pomokit. Untuk yang satu kelompok menggunakan URL github pages yang sama.
 12. Meminta restu dari orang tua dengan mengirimkan link restu yang di klik oleh orang tua. Bagi yang melakukan manipulasi nomor orang tua akan langsung di eliminasi. 
 
 Jika kamu merasa tertantang di sesi submit proposal ini, kamu boleh menambahkan :
@@ -36,3 +36,5 @@ Jika kamu merasa tertantang di sesi submit proposal ini, kamu boleh menambahkan 
 2. Memiliki Backend Authentikasi PASETO
 3. Method GET dari API Publik
 4. Ada penjelasan Video
+
+## Bimbingan Proyek 3 Perdana
