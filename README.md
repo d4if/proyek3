@@ -37,4 +37,20 @@ Jika kamu merasa tertantang di sesi submit proposal ini, kamu boleh menambahkan 
 3. Method GET dari API Publik
 4. Ada penjelasan Video
 
-## Bimbingan Proyek 3 Perdana
+## Bimbingan Perdana Proyek 3 
+Pada bimbingan perdana ini membuat :
+1. Pilih bahasa pemrograman yang akan digunakan untuk membangun Backend
+2. Membuat Package dari Bahasa Pemrograman yang dipilih dan di publikasikan di repository publik. 
+3. Membuat Akun Google Cloud Platform, aktifkan Free Trial Menggunakan Bank Digital Masing-masing
+4. Pangggil Package yang sudah dibuat melalui Google Cloud Function untuk satu endpoin Backend Proses Login Berbasiskan Token
+5. Bimbingan ini Berjalan selama 1 Minggu kedepan dengan minimal menjalankan 3 kali cycle pomodoro di group bimbingan dosen masing-masing
+6. 1 cycle terdiri dari : pembuatan package, pembuatan Google Cloud Function, Pembuatan Github Pages
+
+### Daftar repository Publik
+Berikut ini adalah daftar repository publik yang ada di setiap bahasa pemrograman :
+1. Go Lang bisa diakses di [pkg.go.dev](https://pkg.go.dev/)
+2. Node.js bisa diakses di [npmjs.org](https://www.npmjs.com/)
+3. Python bisa diakses di [pypi.org](https://pypi.org/)
+4. PHP bisa diakses di [packagist.org](https://packagist.org/)
+
+
