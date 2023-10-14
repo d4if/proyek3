@@ -5,9 +5,10 @@ Pada bimbingan perdana ini membuat :
 2. Membuat Package dari Bahasa Pemrograman yang dipilih dan di publikasikan di repository publik. 
 3. Membuat Akun Google Cloud Platform, aktifkan Free Trial Menggunakan Bank Digital Masing-masing
 4. Pangggil Package yang sudah dibuat melalui Google Cloud Function untuk satu endpoin Backend Proses Login Berbasiskan Token
-5. Bimbingan ini Berjalan selama 1 Minggu kedepan dengan minimal menjalankan 3 kali cycle pomodoro di group bimbingan dosen masing-masing
-6. Satu cycle terdiri dari minimal tiga kegiatan yaitu pembuatan package, pembuatan Google Cloud Function, Pembuatan Github Pages.
-7. Penjelasan masing-masing kegiatan ada di langkah di bawah ini.
+5. Buatlah Frontend di github pages yang menggunakan endpoint Backend Tersebut
+6. Bimbingan ini Berjalan selama 1 Minggu kedepan dengan minimal menjalankan 3 kali cycle pomodoro di group bimbingan dosen masing-masing
+7. Satu cycle terdiri dari minimal tiga kegiatan yaitu pembuatan package, pembuatan Google Cloud Function, Pembuatan Github Pages.
+8. Penjelasan masing-masing kegiatan ada di langkah di bawah ini.
 
 ## Publish Package di Registry / Repository Publik
 
@@ -20,14 +21,14 @@ Berikut ini adalah daftar repository publik yang ada di setiap bahasa pemrograma
 
 ## Membuat Backend dari Google Cloud Function
 
-Langkah-langkah yang wajib minimal dilakukan :
+Langkah-langkah yang wajib minimal dilakukan:
 1. Pastikan sudah memiliki akun Google Cloud Platform(GCP)
 2. Masuk ke Menu Google Cloud Function(GCF) Buat Satu fungsi
 3. Pada fungsi tersebut wajib memanggil dan menggunakan Package yang sudah di buat sebelumnya
 
 ## Membuat Frontend di Github Pages
 
-Langkah-langkah yang wajib minimal dilakukan
+Langkah-langkah yang wajib minimal dilakukan:
 1. Membuat form login yang terdiri dari minimal username dan password
 2. Mengirimkan data form login ke backend GCF
 3. Mendapatkan respon berupa Token PASETO jika login benar, peringatan jika login salah
