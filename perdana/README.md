@@ -41,3 +41,4 @@ Buatlah frontend di github pages dengan langkah-langkah yang wajib minimal dilak
 7. Jika ada cookies token PASETO selalu redirect dari form login ke dashboard
 8. Siapkan halaman logout, halaman logout berfungsi untuk menghapus cookies TOKEN dan kembali(Redirect) ke form login.
 9. Untuk mempercantik tambahkan laman 404.html
+10. Frontend sudah menggunakan CSS Framework seperti Tailwind, Bulma, Bootstrap.
