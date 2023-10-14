@@ -33,7 +33,10 @@ Buatlah frontend di github pages dengan langkah-langkah yang wajib minimal dilak
 2. Mengirimkan data form login ke backend GCF
 3. Mendapatkan respon berupa Token PASETO jika login benar, peringatan jika login salah
 4. Token Paseto disimpan di dalam cookies browser dengan expires mengikuti expire token PASETO
-5. Cookies di set path nya menggunakan http only dan domain dari frontent untuk keamanan
+5. Lakukan pengamanan Cookies dengan mengaktifkan Secure, SameSite Strict, Path dan HttpOnly
+   ```js
+   Set-Cookie: id=a3fWa; Expires=Thu, 21 Oct 2021 07:28:00 GMT; Secure; HttpOnly; SameSite=Strict
+   ```
 6. Setelah Menyimpan Cookie maka diarahkan(Redirecting) ke dashboard profile dari user tersebut.
 7. Jika ada cookies token PASETO selalu redirect dari form login ke dashboard
 8. Siapkan halaman logout, halaman logout berfungsi untuk menghapus cookies TOKEN dan kembali(Redirect) ke form login.
