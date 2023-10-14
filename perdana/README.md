@@ -12,7 +12,7 @@ Pada bimbingan perdana ini membuat :
 
 ## Publish Package di Registry / Repository Publik
 
-Wajib membuat package yang sudah dipublish di Registri / Repository Publik.   
+Buatlah package yang sudah dipublish di Registri / Repository Publik.   
 Berikut ini adalah daftar repository publik yang ada di setiap bahasa pemrograman :
 1. Go Lang bisa diakses di [pkg.go.dev](https://pkg.go.dev/)
 2. Node.js bisa diakses di [npmjs.org](https://www.npmjs.com/)
@@ -21,14 +21,14 @@ Berikut ini adalah daftar repository publik yang ada di setiap bahasa pemrograma
 
 ## Membuat Backend dari Google Cloud Function
 
-Langkah-langkah yang wajib minimal dilakukan:
+Buatlah endpoint backend micro service dengan langkah-langkah yang wajib minimal dilakukan:
 1. Pastikan sudah memiliki akun Google Cloud Platform(GCP)
 2. Masuk ke Menu Google Cloud Function(GCF) Buat Satu fungsi
 3. Pada fungsi tersebut wajib memanggil dan menggunakan Package yang sudah di buat sebelumnya
 
 ## Membuat Frontend di Github Pages
 
-Langkah-langkah yang wajib minimal dilakukan:
+Buatlah frontend di github pages dengan langkah-langkah yang wajib minimal dilakukan:
 1. Membuat form login yang terdiri dari minimal username dan password
 2. Mengirimkan data form login ke backend GCF
 3. Mendapatkan respon berupa Token PASETO jika login benar, peringatan jika login salah
