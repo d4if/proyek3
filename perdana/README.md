@@ -6,7 +6,8 @@ Pada bimbingan perdana ini membuat :
 3. Membuat Akun Google Cloud Platform, aktifkan Free Trial Menggunakan Bank Digital Masing-masing
 4. Pangggil Package yang sudah dibuat melalui Google Cloud Function untuk satu endpoin Backend Proses Login Berbasiskan Token
 5. Bimbingan ini Berjalan selama 1 Minggu kedepan dengan minimal menjalankan 3 kali cycle pomodoro di group bimbingan dosen masing-masing
-6. 1 cycle terdiri dari : pembuatan package, pembuatan Google Cloud Function, Pembuatan Github Pages
+6. Satu cycle terdiri dari minimal tiga kegiatan yaitu pembuatan package, pembuatan Google Cloud Function, Pembuatan Github Pages.
+7. Penjelasan masing-masing kegiatan ada di langkah di bawah ini.
 
 ## Publish Package di Registry / Repository Publik
 
