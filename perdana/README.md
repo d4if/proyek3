@@ -37,3 +37,4 @@ Langkah-langkah yang wajib minimal dilakukan:
 6. Setelah Menyimpan Cookie maka diarahkan(Redirecting) ke dashboard profile dari user tersebut.
 7. Jika ada cookies token PASETO selalu redirect dari form login ke dashboard
 8. Siapkan halaman logout, halaman logout berfungsi untuk menghapus cookies TOKEN dan kembali(Redirect) ke form login.
+9. Untuk mempercantik tambahkan laman 404.html
