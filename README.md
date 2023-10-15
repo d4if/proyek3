@@ -4,7 +4,6 @@ Luaran Proyek 3 Informatika adalah membangun sebuah aplikasi yang harus terdiri 
 2. Backend minimal menggunakan RESTFull dengan menggunaan konsep web service dan package, boleh menggunakan web socket atau graphql untuk berinteraksi dengan Frontend.
 3. Backend wajib di hosting di GCP(Cloud Function/Cloud Run), AWS, Heroku, VPS, Hosting.
 4. Backend wajib menggunakan sistem Authentikasi berbasiskan token [PASETO V4](https://github.com/whatsauth/watoken).
-   ![image](https://github.com/d4if/proyek3/assets/11188109/495e3636-2217-41a4-a79f-785820ec026c)
 5. Direkomendasikan membangun backend menggunakan [Go Package](https://pkg.go.dev/) atau Framework [Go Fiber](https://gofiber.io/)
 6. Semua proses Proyek 3 menggunakan metode belajar Pomodoro dengan aplikasi [pomokit](https://pomokit.github.io/).
 
@@ -38,4 +37,5 @@ Jika kamu merasa tertantang di sesi submit proposal ini, kamu boleh menambahkan 
 4. Ada penjelasan Video
 
 
-
+## Bimbingan Perdana
+Proses bimbingan perdana bisa dilihat di [laman berikut](./perdana)
