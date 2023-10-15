@@ -11,6 +11,7 @@ Tujuan Pembelajaran :
 6. Memahami Javascript Object Signing and Encryption(JOSE) framework untuk pembuatan token
 7. Memahami cara debug frontend menggunakan Chrome DevTools
 8. Memahami konsep keamanan Algoritma Hashing Password
+9. Memahami konsep Cookies dan fitur keamanannya
 
 ## Instruksi
 Dalam waktu kurang dari satu minggu ini lakukan :
