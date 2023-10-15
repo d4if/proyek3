@@ -1,4 +1,7 @@
-# Bimbingan Perdana Proyek 3 
+# Bimbingan Perdana Proyek 3 : Membuat Token Based Authentication
+Pada bimbingan perdana ini akan mengerjakan konsep dari gambar berikut:  
+ ![image](https://github.com/d4if/proyek3/assets/11188109/495e3636-2217-41a4-a79f-785820ec026c)
+ 
 Tujuan Pembelajaran :
 1. Memahami bagaimana membuat fungsi dan package
 2. Memahami dependensi dan versioning software
