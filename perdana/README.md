@@ -51,3 +51,5 @@ Buatlah frontend di github pages dengan langkah-langkah yang wajib minimal dilak
 8. Siapkan halaman logout, halaman logout berfungsi untuk menghapus cookies TOKEN dan kembali(Redirect) ke form login.
 9. Untuk mempercantik tambahkan laman 404.html
 10. Frontend sudah menggunakan CSS Framework seperti Tailwind, Bulma, Bootstrap.
+
+Contoh Frontend : [POST ke GCF](https://jscroot.github.io/examples/api/post/togcf/)
