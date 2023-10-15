@@ -1,6 +1,14 @@
 
 # Bimbingan Perdana Proyek 3 
-Pada bimbingan perdana ini membuat :
+Tujuan Pembelajaran :
+1. Memahami bagaimana membuat fungsi dan package
+2. Memahami membuat endpoint backend micro service pada layanan Cloud Service
+3. Memahami RestFull dan penggunaan token untuk pengamanan Backend
+4. Memahami Javascript Object Signing and Encryption(JOSE) framework untuk pembuatan token
+5. Memahami cara debug frontend menggunakan Chrome DevTools
+
+## Instruksi
+Dalam waktu kurang dari satu minggu ini lakukan :
 1. Tetapkan bahasa pemrograman yang akan digunakan untuk membangun Backend
 2. Membuat Package dari Bahasa Pemrograman yang dipilih dan di publikasikan di repository publik. 
 3. Membuat Akun Google Cloud Platform, aktifkan Free Trial Menggunakan Bank Digital Masing-masing
