@@ -1,11 +1,12 @@
-
 # Bimbingan Perdana Proyek 3 
 Tujuan Pembelajaran :
 1. Memahami bagaimana membuat fungsi dan package
-2. Memahami membuat endpoint backend micro service pada layanan Cloud Service
-3. Memahami RestFull dan penggunaan token untuk pengamanan Backend
-4. Memahami Javascript Object Signing and Encryption(JOSE) framework untuk pembuatan token
-5. Memahami cara debug frontend menggunakan Chrome DevTools
+2. Memahami dependensi dan versioning software
+3. Memahami membuat endpoint backend micro service pada layanan Cloud populer
+4. Memahami RestFull dan penggunaan token untuk pengamanan Backend
+5. Memahami Javascript Object Signing and Encryption(JOSE) framework untuk pembuatan token
+6. Memahami cara debug frontend menggunakan Chrome DevTools
+7. 
 
 ## Instruksi
 Dalam waktu kurang dari satu minggu ini lakukan :
@@ -14,9 +15,12 @@ Dalam waktu kurang dari satu minggu ini lakukan :
 3. Membuat Akun Google Cloud Platform, aktifkan Free Trial Menggunakan Bank Digital Masing-masing
 4. Pangggil Package yang sudah dibuat melalui Google Cloud Function untuk satu endpoin Backend Proses Login Berbasiskan Token
 5. Buatlah Frontend di github pages yang menggunakan endpoint Backend Tersebut
-6. Bimbingan ini Berjalan selama 1 Minggu kedepan dengan minimal menjalankan 3 kali cycle pomodoro di group bimbingan dosen masing-masing
-7. Satu cycle terdiri dari minimal tiga kegiatan yaitu Publish package, Publish Google Cloud Function, Publish Github Pages.
-8. Penjelasan masing-masing kegiatan ada di langkah di bawah ini.
+6. Satu kali bimbingan berjalan selama 1 Minggu dimulai dari hari senin, dengan minimal menjalankan 3 kali cycle pomokit di **group bimbingan dosen masing-masing** per individu bukan per kelompok.
+7. Minta group id kepada dosen pembimbing masing-masing melalui group whatsapp bimbingan dosen tersebut, pastikan iteung ada di group tersebut.
+8. Bimbingan wajib dilakukan setiap minggu. Cut Off Satu Pertemuan Bimbingan Mingguan adalah hari minggu.
+9. Apabila kurang dari 3 cycle pomokit, dianggap tidak bimbingan dan berdampak pada kelulusan proyek.
+10. Satu cycle mencakup salah satu atau lebih dari tiga kegiatan yaitu Publish package, Publish Google Cloud Function, Publish Github Pages.
+11. Penjelasan masing-masing kegiatan ada di langkah di bawah ini.
 
 ## Publish Package di Registry / Repository Publik
 
