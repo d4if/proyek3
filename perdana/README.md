@@ -1,7 +1,7 @@
 
 # Bimbingan Perdana Proyek 3 
 Pada bimbingan perdana ini membuat :
-1. Pilih bahasa pemrograman yang akan digunakan untuk membangun Backend
+1. Tetapkan bahasa pemrograman yang akan digunakan untuk membangun Backend
 2. Membuat Package dari Bahasa Pemrograman yang dipilih dan di publikasikan di repository publik. 
 3. Membuat Akun Google Cloud Platform, aktifkan Free Trial Menggunakan Bank Digital Masing-masing
 4. Pangggil Package yang sudah dibuat melalui Google Cloud Function untuk satu endpoin Backend Proses Login Berbasiskan Token
