@@ -7,7 +7,7 @@ Pada bimbingan perdana ini membuat :
 4. Pangggil Package yang sudah dibuat melalui Google Cloud Function untuk satu endpoin Backend Proses Login Berbasiskan Token
 5. Buatlah Frontend di github pages yang menggunakan endpoint Backend Tersebut
 6. Bimbingan ini Berjalan selama 1 Minggu kedepan dengan minimal menjalankan 3 kali cycle pomodoro di group bimbingan dosen masing-masing
-7. Satu cycle terdiri dari minimal tiga kegiatan yaitu pembuatan package, pembuatan Google Cloud Function, Pembuatan Github Pages.
+7. Satu cycle terdiri dari minimal tiga kegiatan yaitu Publish package, Publish Google Cloud Function, Publish Github Pages.
 8. Penjelasan masing-masing kegiatan ada di langkah di bawah ini.
 
 ## Publish Package di Registry / Repository Publik
