@@ -6,7 +6,7 @@ Tujuan Pembelajaran :
 4. Memahami RestFull dan penggunaan token untuk pengamanan Backend
 5. Memahami Javascript Object Signing and Encryption(JOSE) framework untuk pembuatan token
 6. Memahami cara debug frontend menggunakan Chrome DevTools
-7. 
+7. Memahami konsep keamanan Algoritma Hashing Password
 
 ## Instruksi
 Dalam waktu kurang dari satu minggu ini lakukan :
