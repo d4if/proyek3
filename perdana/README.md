@@ -19,6 +19,8 @@ Berikut ini adalah daftar repository publik yang ada di setiap bahasa pemrograma
 3. Python bisa diakses di [pypi.org](https://pypi.org/)
 4. PHP bisa diakses di [packagist.org](https://packagist.org/)
 
+Contoh Package : [Peda](https://pkg.go.dev/github.com/petapedia/peda)
+
 ## Membuat Backend dari Google Cloud Function
 
 Buatlah endpoint backend micro service dengan langkah-langkah yang wajib minimal dilakukan:
@@ -26,9 +28,11 @@ Buatlah endpoint backend micro service dengan langkah-langkah yang wajib minimal
 2. Masuk ke Menu Google Cloud Function(GCF) Buat Satu fungsi endpoint
 3. Pada fungsi endpoint tersebut wajib memanggil dan menggunakan Package yang sudah di buat sebelumnya
 4. Endpoint menerima POST dari frontend berupa username dan password
-5. Endpoint mengembalikan token PASETO jika user dan password benar.
+5. Endpoint mengembalikan token PASETO V4 jika user dan password benar.
 6. Data User dan Password diambil dari basis data.
-7. Password yang disimpan di basis data harus sudah di hash tidak boleh polos.
+7. Password yang disimpan di basis data harus sudah di hash minimal menggunakan Bcrypt atau yang diatasnya.
+
+Contoh Backend : [URL](https://asia-southeast2-awangga.cloudfunctions.net/petapedia-post) dan [Source Code](https://petapedia.github.io/gcf/post/)
 
 ## Membuat Frontend di Github Pages
 
