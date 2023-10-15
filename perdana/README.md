@@ -5,11 +5,12 @@ Pada bimbingan perdana ini akan mengerjakan konsep dari gambar berikut:
 Tujuan Pembelajaran :
 1. Memahami bagaimana membuat fungsi dan package
 2. Memahami dependensi dan versioning software
-3. Memahami membuat endpoint backend micro service pada layanan Cloud populer
-4. Memahami RestFull dan penggunaan token untuk pengamanan Backend
-5. Memahami Javascript Object Signing and Encryption(JOSE) framework untuk pembuatan token
-6. Memahami cara debug frontend menggunakan Chrome DevTools
-7. Memahami konsep keamanan Algoritma Hashing Password
+3. Memahami micro service adalah gabungan dari beberapa backend dari fungsi yang berbeda dan lokasi yang berbeda
+4. Memahami membuat endpoint backend micro service pada layanan Cloud populer
+5. Memahami RestFull dan penggunaan token untuk pengamanan Backend
+6. Memahami Javascript Object Signing and Encryption(JOSE) framework untuk pembuatan token
+7. Memahami cara debug frontend menggunakan Chrome DevTools
+8. Memahami konsep keamanan Algoritma Hashing Password
 
 ## Instruksi
 Dalam waktu kurang dari satu minggu ini lakukan :
