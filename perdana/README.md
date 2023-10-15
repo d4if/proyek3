@@ -21,7 +21,7 @@ Berikut ini adalah daftar repository publik yang ada di setiap bahasa pemrograma
 
 Contoh Package : [Peda](https://pkg.go.dev/github.com/petapedia/peda)
 
-## Membuat Backend dari Google Cloud Function
+## Publish Backend dari Google Cloud Function
 
 Buatlah endpoint backend micro service dengan langkah-langkah yang wajib minimal dilakukan:
 1. Pastikan sudah memiliki akun Google Cloud Platform(GCP)
@@ -35,7 +35,7 @@ Buatlah endpoint backend micro service dengan langkah-langkah yang wajib minimal
 
 Contoh Backend : [URL](https://asia-southeast2-awangga.cloudfunctions.net/petapedia-post) dan [Source Code](https://petapedia.github.io/gcf/post/)
 
-## Membuat Frontend di Github Pages
+## Publish Frontend di Github Pages
 
 Buatlah frontend di github pages dengan langkah-langkah yang wajib minimal dilakukan:
 1. Membuat form login yang terdiri dari minimal username dan password
