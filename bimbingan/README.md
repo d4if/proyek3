@@ -1,11 +1,11 @@
-# Bimbingan Perdana Proyek 3 : Membuat Token Based Authentication
-Pada bimbingan perdana ini akan mengerjakan konsep dari gambar berikut:  
- ![image](https://github.com/d4if/proyek3/assets/11188109/495e3636-2217-41a4-a79f-785820ec026c)
+# Proses Bimbingan Proyek 3
+
+Proses bimbingan merupakan proses untuk mengerjakan luaran dari proyek 3 yang ada di halaman utama. Detail Instruksi sebagai berikut.
 
 ## Instruksi
 Dalam waktu kurang dari satu minggu ini lakukan :
-1. Tetapkan bahasa pemrograman yang akan digunakan untuk membangun Backend
-2. Membuat Package dari Bahasa Pemrograman yang dipilih dan di publikasikan di repository publik. 
+1. Membuat Package dari Javascript ES6+ yang dipublikasikan di github pages dan jsdelivr
+2. Membuat Package dan di publikasikan di repository publik. 
 3. Membuat Akun Google Cloud Platform, aktifkan Free Trial Menggunakan Bank Digital Masing-masing
 4. Pangggil Package yang sudah dibuat melalui Google Cloud Function untuk satu endpoin Backend Proses Login Berbasiskan Token
 5. Buatlah Frontend di github pages yang menggunakan endpoint Backend Tersebut
@@ -15,6 +15,13 @@ Dalam waktu kurang dari satu minggu ini lakukan :
 9. Apabila kurang dari 3 cycle pomokit, dianggap tidak bimbingan dan berdampak pada kelulusan proyek.
 10. Satu cycle mencakup salah satu atau lebih dari tiga kegiatan yaitu Publish package, Publish Google Cloud Function, Publish Github Pages.
 11. Penjelasan masing-masing kegiatan ada di langkah di bawah ini.
+
+
+## Publish Package Frontend
+Contoh Package Frontend : 
+1. [Jscroot](https://jscroot.github.io/)
+2. [C-Craft](https://c-craftjs.github.io/)  
+Kemudian Frontend di distribusikan melalui [jsDelivr](https://www.jsdelivr.com/)
 
 ## Publish Package di Registry / Repository Publik
 
