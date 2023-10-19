@@ -1,10 +1,16 @@
 # Proyek 3 : Micro Frontend & Micro Service Developer
-Luaran Proyek 3 Informatika adalah membangun sebuah aplikasi yang harus terdiri dari Frontend dan Backend. Dengan ketentuan:
+Luaran dari proyek 3 adalah :
+1. Package Backend yang digunakan di GCF
+2. Package Frontend yang digunakan di GHP
+3. Buku tutorial membangun package BE dan FE dan cara memanggilnya di GCF dan GHP
+4. Jurnal Terapan atau Pengabdian Masyarakat
+
+Detail ketentuan:
 1. Frontend wajib di deploy di github pages dengan menggunakan konsep serverless micro frontend menggunakan [Javascript ES6+](https://vanillajskit.github.io/)
-2. Backend minimal menggunakan RESTFull dengan menggunaan konsep web service dan package, boleh menggunakan web socket atau graphql untuk berinteraksi dengan Frontend.
-3. Backend wajib di hosting di GCP(Cloud Function/Cloud Run), AWS, Heroku, VPS, Hosting.
+2. Backend minimal menggunakan RESTFull dengan menggunaan konsep web service dan pemanggilan package.
+3. Backend wajib di hosting di GCF(Google Cloud Function).
 4. Backend wajib menggunakan sistem Authentikasi berbasiskan token [PASETO V4](https://github.com/whatsauth/watoken).
-5. Direkomendasikan membangun backend menggunakan [Go Package](https://pkg.go.dev/) atau Framework [Go Fiber](https://gofiber.io/)
+5. Package sudah status publish, contoh untuk golang bisa diakses di [Go Package](https://pkg.go.dev/)
 6. Semua proses Proyek 3 menggunakan metode belajar Pomodoro dengan aplikasi [pomokit](https://pomokit.github.io/).
 
 # FAQ Proyek 3
