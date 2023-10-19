@@ -1,4 +1,16 @@
 # Proyek 3 : Micro Frontend & Micro Service Developer
+
+Tujuan Pembelajaran :
+1. Menguasai bagaimana membuat fungsi dan package
+2. Menguasai dependensi dan versioning software
+3. Menguasai micro service adalah gabungan dari beberapa backend dari fungsi yang berbeda dan lokasi yang berbeda
+4. Menguasai membuat endpoint backend micro service pada layanan Cloud populer
+5. Menguasai RestFull dan penggunaan token untuk pengamanan Backend
+6. Menguasai Javascript Object Signing and Encryption(JOSE) framework untuk pembuatan token
+7. Menguasai cara debug frontend menggunakan Chrome DevTools
+8. Menguasai konsep keamanan Algoritma Hashing Password
+9. Menguasai konsep Cookies dan fitur keamanannya
+
 Luaran dari proyek 3 adalah :
 1. Package Backend yang sudah di publikasikan
 2. Daftar URL Google Cloud Function yang digunakan oleh Frontend untuk memanggil backend.
