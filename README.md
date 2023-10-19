@@ -1,9 +1,11 @@
 # Proyek 3 : Micro Frontend & Micro Service Developer
 Luaran dari proyek 3 adalah :
-1. Package Backend yang digunakan di GCF
-2. Package Frontend yang digunakan di GHP
-3. Buku tutorial membangun package BE dan FE dan cara memanggilnya di GCF dan GHP
-4. Jurnal Terapan atau Pengabdian Masyarakat
+1. Package Backend yang sudah di publikasikan
+2. Daftar URL Google Cloud Function yang digunakan oleh Frontend untuk memanggil backend.
+3. Package Frontend yang sudah di publikasikan
+4. Daftar fungsi dan kelompok js yang digunakan di frontend URL Github Pages
+5. Buku tutorial membangun package BE dan FE dan cara memanggilnya di GCF dan GHP
+6. Jurnal Terapan atau Pengabdian Masyarakat
 
 Detail ketentuan:
 1. Frontend wajib di deploy di github pages dengan menggunakan konsep serverless micro frontend menggunakan [Javascript ES6+](https://vanillajskit.github.io/)
