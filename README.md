@@ -34,7 +34,9 @@ J : Syarat Proyek3 adalah lulus Mata Kuliah Web Service, artinya jika tidak bisa
 T : Apakah boleh saya membangun frontend menggunakan android?  
 J : Mata kuliah mobile programming ada di semester 5, masih berjalan. Dibolehkan sebagai nilai tambah, tapi tetap yang di nilai adalah github pages dari JS ES6+.
 
+## Jadwal Proyek 3
 
-
-## Bimbingan Perdana
-Proses bimbingan perdana bisa dilihat di [laman berikut](./perdana)
+Berikut adalah jadwal proyek 3:
+1. Pendaftaran pesertadi [laman berikut](./pendaftaran/)
+2. Proses bimbingan perdana bisa dilihat di [laman berikut](./perdana/)
+3. Proses bimbingan selanjutnya bisa dilihat di [laman berikut](./bimbingan/)
