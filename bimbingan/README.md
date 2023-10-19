@@ -24,18 +24,18 @@ Contoh Package Frontend :
 2. [C-Craft](https://c-craftjs.github.io/)  
 Kemudian Frontend di distribusikan melalui [jsDelivr](https://www.jsdelivr.com/)
 
-## Publish Package di Registry / Repository Publik
+## Publish Package Backend
 
-Buatlah package yang sudah dipublish di Registri / Repository Publik.   
+Terus kembangkan package backend yang sudah dipublish di Registri / Repository Publik.   
 Berikut ini adalah daftar repository publik yang ada di setiap bahasa pemrograman :
 1. Go Lang bisa diakses di [pkg.go.dev](https://pkg.go.dev/)
 2. Node.js bisa diakses di [npmjs.org](https://www.npmjs.com/)
 3. Python bisa diakses di [pypi.org](https://pypi.org/)
 4. PHP bisa diakses di [packagist.org](https://packagist.org/)
 
-Contoh Package : [Peda](https://pkg.go.dev/github.com/petapedia/peda)
+Contoh Package Backend : [Peda](https://pkg.go.dev/github.com/petapedia/peda)
 
-## Publish Backend dari Google Cloud Function
+## Publish Backend di Google Cloud Function
 
 Buatlah endpoint backend micro service dengan langkah-langkah yang wajib minimal dilakukan:
 1. Pastikan sudah memiliki akun Google Cloud Platform(GCP)
