@@ -1,4 +1,4 @@
-# Proyek 3 : Micro Frontend & Micro Service Developer
+# Proyek 3: Micro Frontend & Micro Service Developer
 
 Tujuan Pembelajaran :
 1. Menguasai bagaimana membuat fungsi dan package
