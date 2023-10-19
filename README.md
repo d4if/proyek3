@@ -1,6 +1,6 @@
 # Proyek 3: Micro Frontend & Micro Service Developer
 
-Tujuan Pembelajaran :
+## Tujuan Pembelajaran
 1. Menguasai bagaimana membuat fungsi dan package
 2. Menguasai dependensi dan versioning software
 3. Menguasai micro service adalah gabungan dari beberapa backend dari fungsi yang berbeda dan lokasi yang berbeda
@@ -11,7 +11,7 @@ Tujuan Pembelajaran :
 8. Menguasai konsep keamanan Algoritma Hashing Password
 9. Menguasai konsep Cookies dan fitur keamanannya
 
-Luaran dari proyek 3 adalah :
+## Luaran proyek 3
 1. Package Backend yang sudah di publikasikan
 2. Daftar URL Google Cloud Function yang digunakan oleh Frontend untuk memanggil backend.
 3. Package Frontend yang sudah di publikasikan
@@ -19,7 +19,7 @@ Luaran dari proyek 3 adalah :
 5. Buku tutorial membangun package BE dan FE dan cara memanggilnya di GCF dan GHP
 6. Jurnal Terapan atau Pengabdian Masyarakat
 
-Detail ketentuan:
+## Detail ketentuan
 1. Frontend wajib di deploy di github pages dengan menggunakan konsep serverless micro frontend menggunakan [Javascript ES6+](https://vanillajskit.github.io/)
 2. Backend minimal menggunakan RESTFull dengan menggunaan konsep web service dan pemanggilan package.
 3. Backend wajib di hosting di GCF(Google Cloud Function).
@@ -27,7 +27,7 @@ Detail ketentuan:
 5. Package sudah status publish, contoh untuk golang bisa diakses di [Go Package](https://pkg.go.dev/)
 6. Semua proses Proyek 3 menggunakan metode belajar Pomodoro dengan aplikasi [pomokit](https://pomokit.github.io/).
 
-# FAQ Proyek 3
+## FAQ Proyek 3
 T : Apakah boleh saya tidak membangun frontend di github pages?  
 J : Syarat Proyek3 adalah lulus Mata Kuliah Web Service, artinya jika tidak bisa membangun frontend di github pages dipastikan belum menguasi mata kuliah Web Service
 
