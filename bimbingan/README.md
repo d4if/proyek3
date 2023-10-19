@@ -4,17 +4,18 @@ Proses bimbingan merupakan proses untuk mengerjakan luaran dari proyek 3 yang ad
 
 ## Instruksi
 Dalam waktu kurang dari satu minggu ini lakukan :
-1. Membuat Package dari Javascript ES6+ yang dipublikasikan di github pages dan jsdelivr
-2. Membuat Package dan di publikasikan di repository publik. 
-3. Membuat Akun Google Cloud Platform, aktifkan Free Trial Menggunakan Bank Digital Masing-masing
-4. Pangggil Package yang sudah dibuat melalui Google Cloud Function untuk satu endpoin Backend Proses Login Berbasiskan Token
-5. Buatlah Frontend di github pages yang menggunakan endpoint Backend Tersebut
-6. Satu kali bimbingan berjalan selama 1 Minggu dimulai dari hari senin, dengan minimal menjalankan 3 kali cycle pomokit di **group bimbingan dosen masing-masing** per individu bukan per kelompok.
-7. Minta group id kepada dosen pembimbing masing-masing melalui group whatsapp bimbingan dosen tersebut, pastikan iteung ada di group tersebut.
-8. Bimbingan wajib dilakukan setiap minggu. Cut Off Satu Pertemuan Bimbingan Mingguan adalah hari minggu.
-9. Apabila kurang dari 3 cycle pomokit, dianggap tidak bimbingan dan berdampak pada kelulusan proyek.
-10. Satu cycle mencakup salah satu atau lebih dari tiga kegiatan yaitu Publish package, Publish Google Cloud Function, Publish Github Pages.
-11. Penjelasan masing-masing kegiatan ada di langkah di bawah ini.
+1. Membangun Package Frontend dari Javascript ES6+ yang dipublikasikan di github pages dan jsdelivr
+2. Membangun Package Backend dan di publikasikan di repository publik. 
+3. Buat Google Cloud Function untuk satu fungsi endpoint dari Package Backend
+4. Endpoint GCF diwajibkan untuk memakai Token
+5. Pangggil Package yang sudah dibuat melalui Google Cloud Function untuk satu endpoin Backend Proses Login Berbasiskan Token
+6. Buatlah Frontend di github pages yang menggunakan endpoint Backend Tersebut
+7. Satu kali bimbingan berjalan selama 1 Minggu dimulai dari hari senin, dengan minimal menjalankan 3 kali cycle pomokit di **group bimbingan dosen masing-masing** per individu bukan per kelompok.
+8. Minta group id kepada dosen pembimbing masing-masing melalui group whatsapp bimbingan dosen tersebut, pastikan iteung ada di group tersebut.
+9. Bimbingan wajib dilakukan setiap minggu. Cut Off Satu Pertemuan Bimbingan Mingguan adalah hari minggu.
+10. Apabila kurang dari 3 cycle pomokit, dianggap tidak bimbingan dan berdampak pada kelulusan proyek.
+11. Satu cycle mencakup salah satu atau lebih dari tiga kegiatan yaitu Publish package, Publish Google Cloud Function, Publish Github Pages.
+12. Penjelasan masing-masing kegiatan ada di langkah di bawah ini.
 
 
 ## Publish Package Frontend
