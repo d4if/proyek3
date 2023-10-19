@@ -1,17 +1,6 @@
 # Bimbingan Perdana Proyek 3 : Membuat Token Based Authentication
 Pada bimbingan perdana ini akan mengerjakan konsep dari gambar berikut:  
  ![image](https://github.com/d4if/proyek3/assets/11188109/495e3636-2217-41a4-a79f-785820ec026c)
- 
-Tujuan Pembelajaran :
-1. Memahami bagaimana membuat fungsi dan package
-2. Memahami dependensi dan versioning software
-3. Memahami micro service adalah gabungan dari beberapa backend dari fungsi yang berbeda dan lokasi yang berbeda
-4. Memahami membuat endpoint backend micro service pada layanan Cloud populer
-5. Memahami RestFull dan penggunaan token untuk pengamanan Backend
-6. Memahami Javascript Object Signing and Encryption(JOSE) framework untuk pembuatan token
-7. Memahami cara debug frontend menggunakan Chrome DevTools
-8. Memahami konsep keamanan Algoritma Hashing Password
-9. Memahami konsep Cookies dan fitur keamanannya
 
 ## Instruksi
 Dalam waktu kurang dari satu minggu ini lakukan :
