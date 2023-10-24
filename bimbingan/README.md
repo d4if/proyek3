@@ -8,7 +8,7 @@ Persyaratan:
 6. Setiap repo yang dikerjakan pastikan sudah di pasang webhook, detail webhook ada di deskripsi group wa proyek
 7. pastikan setiap commit message mengikuti standar konvensi : jenis(namafungsi):penjelasan
 8. Dimana jenis terdiri dari feature,fix,add,delete
-9. Pada saat menjalankan pomokit sudah commit minimal sebanyak 3 commit standar konvensi.
+9. Pada saat menjalankan pomokit sudah commit minimal sebanyak 3 commit standar konvensi pada repo yang dikerjakan.
 10. Pastikan mengunduh pomokit versi terbaru selalu
 
 ## Kegiatan Pengerjaan Mingguan
