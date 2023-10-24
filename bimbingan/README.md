@@ -7,7 +7,7 @@ Persyaratan:
 5. Satu cycle mencakup salah satu atau lebih dari kegiatan pengerjaan mingguan di bawah ini.
 6. Setiap repo yang dikerjakan pastikan sudah di pasang webhook, detail webhook ada di deskripsi group wa proyek
 7. pastikan setiap commit message mengikuti standar konvensi : jenis(namafungsi):penjelasan
-8. Dimana jenis terdiri dari feat,fix,add,delete
+8. Dimana jenis standar konvensi pesan commit terdiri dari feature,fix,add,delete,update
 9. Pada saat menjalankan pomokit sudah commit minimal sebanyak 3 commit standar konvensi pada repo yang dikerjakan.
 10. Pastikan mengunduh pomokit versi terbaru selalu
 11. Pastikan email yang terdaftar di github sama dengan email yang terdaftar di aplikasi akademik siap.
