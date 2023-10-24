@@ -1,27 +1,38 @@
 # Proses Bimbingan Proyek 3
+Persyaratan:
+1. Satu kali bimbingan berjalan selama 1 Minggu dimulai dari hari selasa, dengan minimal menjalankan 3 kali cycle pomokit di **group bimbingan dosen masing-masing** per individu bukan per kelompok.
+2. Bimbingan wajib dilakukan setiap minggu. Cut Off Satu Pertemuan Bimbingan Mingguan adalah hari senin.
+3. Dalam satu minggu agar nilai bimbingan maksimal maka harus menjalankan 3 cycle pomokit yang disetujui. Per cycle yang disetujui bernilai 33, total nilai 100.
+4. Persentase nilai bimbinagan akan dikali dengan nilai sidang. Misal jika full nilai bimbingan maka 100% x Nilai Sidang.
+5. Satu cycle mencakup salah satu atau lebih dari kegiatan pengerjaan mingguan di bawah ini.
 
-Proses bimbingan merupakan proses untuk mengerjakan luaran dari proyek 3 yang ada di halaman utama. Detail Instruksi sebagai berikut.
+## Kegiatan Pengerjaan Mingguan
+Dalam waktu kurang dari satu minggu ini bisa melakukan:
+1. Membangun Frontend
+2. Membangun Backend
+3. Mempelajari ilmu untuk membangun frontend atau backend
+4. Membuat buku tutorial
+5. Membuat jurnal
+Detail dari Kegiatan Pengerjaan Mingguan dijelaskan di bawah ini.
 
-## Instruksi
-Dalam waktu kurang dari satu minggu ini lakukan :
-1. Membangun Package Frontend dari Javascript ES6+ yang dipublikasikan di github pages dan jsdelivr
+### Membangun Frontend
+1. Untuk pengerjaan HTML dan CSS di publish di github pages. Masukkan URL Github Pages pada pomokit.
+2. Untuk pengerjaan JS ditaruh di repo terpisah dari HTML dan CSS dan dipublikasikan di [jsdelivr]((https://cdn.jsdelivr.net/gh/whatsauth/js/). Masukkan URL CDN jsdelivr pada pomokit
+3. 
+ 
+
+1. Membangun Package Frontend. Terdiri dari Javascript ES6+ yang dipublikasikan di github pages dan jsdelivr
 2. Membangun Package Backend dan di publikasikan di repository publik. 
 3. Buat Google Cloud Function untuk satu fungsi endpoint dari Package Backend
-4. Endpoint GCF diwajibkan untuk memakai Token
+4. Endpoint GCF diwajibkan untuk memakai Token untuk endpoint insert,update delete.
 5. Pangggil Package yang sudah dibuat melalui Google Cloud Function untuk satu endpoin Backend Proses Login Berbasiskan Token
 6. Buatlah Frontend di github pages yang menggunakan endpoint Backend Tersebut
-7. Satu kali bimbingan berjalan selama 1 Minggu dimulai dari hari senin, dengan minimal menjalankan 3 kali cycle pomokit di **group bimbingan dosen masing-masing** per individu bukan per kelompok.
-8. Minta group id kepada dosen pembimbing masing-masing melalui group whatsapp bimbingan dosen tersebut, pastikan iteung ada di group tersebut.
-9. Bimbingan wajib dilakukan setiap minggu. Cut Off Satu Pertemuan Bimbingan Mingguan adalah hari minggu.
-10. Apabila kurang dari 3 cycle pomokit, dianggap tidak bimbingan dan berdampak pada kelulusan proyek.
-11. Satu cycle mencakup salah satu atau lebih dari tiga kegiatan yaitu Publish package, Publish Google Cloud Function, Publish Github Pages.
-12. Penjelasan masing-masing kegiatan ada di langkah di bawah ini.
 
 
 ## Publish Package Frontend
 Contoh Package Frontend : 
 1. [Jscroot](https://jscroot.github.io/)
-2. [C-Craft](https://c-craftjs.github.io/)  
+2. [C-Craft](https://c-craftjs.github.io/) 
 Kemudian Frontend di distribusikan melalui [jsDelivr](https://www.jsdelivr.com/)
 
 ## Publish Package Backend
