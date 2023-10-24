@@ -15,7 +15,7 @@
 1. Package Backend yang sudah di publikasikan
 2. Dokumentasi Swagger menggunakan URL Google Cloud Function yang memanggil Package backend.
 3. Package Javascript ES6+ yang sudah di publikasikan di jsdelivr
-4. HTML dan CSS yang sudah di terdeploy di root domain URL Github Pages dan memanggil package JS menggunakan type="module"
+4. HTML5 dan CSS yang sudah di terdeploy di root domain URL Github Pages dan memanggil package JS menggunakan type="module"
 5. Buku tutorial membangun package BE dan FE dan cara memanggilnya di GCF dan GHP
 6. Jurnal Terapan atau Pengabdian Masyarakat
 
