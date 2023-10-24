@@ -13,9 +13,9 @@
 
 ## Luaran proyek 3
 1. Package Backend yang sudah di publikasikan
-2. Daftar URL Google Cloud Function yang digunakan oleh Frontend untuk memanggil backend.
-3. Package Frontend yang sudah di publikasikan
-4. Daftar fungsi dan kelompok js yang digunakan di frontend URL Github Pages
+2. Dokumentasi Swagger menggunakan URL Google Cloud Function yang digunakan oleh Frontend untuk memanggil backend.
+3. Package Javascript ES6+ yang sudah di publikasikan di jsdelivr
+4. HTML dan CSS yang sudah di terdeploy di root domain URL Github Pages
 5. Buku tutorial membangun package BE dan FE dan cara memanggilnya di GCF dan GHP
 6. Jurnal Terapan atau Pengabdian Masyarakat
 
