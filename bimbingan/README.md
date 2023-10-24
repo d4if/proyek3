@@ -5,6 +5,10 @@ Persyaratan:
 3. Dalam satu minggu agar nilai bimbingan maksimal maka harus menjalankan 3 cycle pomokit yang disetujui. Per cycle yang disetujui bernilai 33, total nilai 100.
 4. Persentase nilai bimbinagan akan dikali dengan nilai sidang. Misal jika full nilai bimbingan maka 100% x Nilai Sidang.
 5. Satu cycle mencakup salah satu atau lebih dari kegiatan pengerjaan mingguan di bawah ini.
+6. Setiap repo yang dikerjakan pastikan sudah di pasang webhook, detail webhook ada di deskripsi group wa proyek
+7. pastikan setiap commit message mengikuti standar konvensi : jenis(namafungsi):penjelasan
+8. Dimana jenis terdiri dari feature,fix,add,delete
+9. Pada saat menjalankan pomokit sudah commit minimal sebanyak 3 commit standar konvensi.
 
 ## Kegiatan Pengerjaan Mingguan
 Dalam waktu kurang dari satu minggu ini bisa melakukan:
