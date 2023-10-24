@@ -3,7 +3,7 @@ Persyaratan:
 1. Satu kali bimbingan berjalan selama 1 Minggu dimulai dari hari selasa, dengan minimal menjalankan 3 kali cycle pomokit di **group bimbingan dosen masing-masing** per individu bukan per kelompok.
 2. Bimbingan wajib dilakukan setiap minggu. Cut Off Satu Pertemuan Bimbingan Mingguan adalah hari senin.
 3. Dalam satu minggu agar nilai bimbingan maksimal maka harus menjalankan 3 cycle pomokit yang disetujui. Per cycle yang disetujui bernilai 33, total nilai 99.
-4. Persentase nilai bimbinagan akan dikali dengan nilai sidang. Misal jika full nilai bimbingan maka 100% x Nilai Sidang.
+4. Persentase nilai bimbingan akan dikali dengan nilai sidang. Misal jika full nilai bimbingan maka 100% x Nilai Sidang.
 5. Satu cycle mencakup salah satu atau lebih dari kegiatan pengerjaan mingguan di bawah ini.
 6. Setiap repo yang dikerjakan pastikan sudah di pasang webhook, detail webhook ada di deskripsi group wa proyek
 7. pastikan setiap commit message mengikuti standar konvensi : jenis(namafungsi):penjelasan
@@ -26,7 +26,7 @@ Detail dari Kegiatan Pengerjaan Mingguan dijelaskan di bawah ini.
 2. Untuk pengerjaan **JS ditaruh di repo terpisah** dari HTML dan CSS serta dipublikasikan di jsdelivr, contoh: [URL CDN jsdelivr whatsauth](https://cdn.jsdelivr.net/gh/whatsauth/js/). Masukkan URL CDN jsdelivr pada pomokit
 3. Website sudah bisa diakses dari root domain. contoh jscroot.github.io ,tidak lagi akses dengan url panjang (misal: jscroot.github.io/jscroot atau jscroot.github.io/jscroot.github.io)
 4. Menggunakan implementasi token yang disimpan di cookies untuk otorisasi dan hak akses.
-5. Semua file HTML **wajib dekralasikan type module** untuk memanggil hanya js versi ES6+. Dilarang memanggil file js tanpa deklarasi type. Untuk src diisi dengan pemanggilan dari CDN jsdelivr. Contoh:
+5. Semua file HTML **wajib dekralasikan type module** untuk memanggil hanya js versi ES6+. Dilarang memanggil file js tanpa deklarasi type. Untuk src diisi dengan pemanggilan dari URL CDN jsdelivr. Contoh:
    ```html
    <script src="https://cdn.jsdelivr.net/gh/whatsauth/js@0.0.9/whatsauth.js" type="module"></script>
    ```
