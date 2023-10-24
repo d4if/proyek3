@@ -9,6 +9,7 @@ Persyaratan:
 7. pastikan setiap commit message mengikuti standar konvensi : jenis(namafungsi):penjelasan
 8. Dimana jenis terdiri dari feature,fix,add,delete
 9. Pada saat menjalankan pomokit sudah commit minimal sebanyak 3 commit standar konvensi.
+10. Pastikan mengunduh pomokit versi terbaru selalu
 
 ## Kegiatan Pengerjaan Mingguan
 Dalam waktu kurang dari satu minggu ini bisa melakukan:
@@ -51,13 +52,13 @@ Detail dari Kegiatan Pengerjaan Mingguan dijelaskan di bawah ini.
    ![image](https://github.com/bukped/gis/assets/11188109/f14aa7e3-10de-4223-a711-1d91e7f68755)
 
 ### Mempelajari ilmu untuk membangun frontend atau backend
-Silahkan resumekan dalam file google docs untuk bahan membuat buku tutorial. Masukkan url google docs pada pomokit
+Silahkan resumekan dalam file markdown README.md pada repo khusus untuk bahan membuat buku tutorial. Masukkan url github pages repo buku pada pomokit
 
 ### Membuat buku tutorial
-Silahkan buat dalam file google docs format bukupedia. Masukkan url google docs pada pomokit
+Silahkan buat dalam file markdown README.md pada repo khusus jurnal. Masukkan url github pages repo jurnal tersebut pada pomokit
 
 ### Membuat jurnal
-Silahkan buat dalam file google docs. Masukkan url google docs pada pomokit
+Silahkan buat dalam file markdown README.md pada repo khusus untuk bahan membuat buku tutorial. Masukkan url github pages repo buku pada pomokit
 
 ### Referensi
 1. [Swagger untuk Github Pages](https://jscroot.github.io/examples/api/swagger/)
