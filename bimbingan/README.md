@@ -17,7 +17,7 @@ Dalam waktu kurang dari satu minggu ini bisa melakukan:
 2. Membangun Backend
 3. Mempelajari ilmu untuk membangun frontend atau backend
 4. Membuat buku tutorial
-5. Membuat jurnal
+5. Membuat jurnal  
 Detail dari Kegiatan Pengerjaan Mingguan dijelaskan di bawah ini.
 
 ### Membangun Frontend
