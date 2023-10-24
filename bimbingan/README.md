@@ -26,7 +26,7 @@ Detail dari Kegiatan Pengerjaan Mingguan dijelaskan di bawah ini.
 2. Untuk pengerjaan **JS ditaruh di repo terpisah** dari HTML dan CSS serta dipublikasikan di jsdelivr, contoh: [URL CDN jsdelivr whatsauth](https://cdn.jsdelivr.net/gh/whatsauth/js/). Masukkan URL CDN jsdelivr pada pomokit
 3. Website sudah bisa diakses dari root domain. contoh jscroot.github.io ,tidak lagi akses dengan url panjang (misal: jscroot.github.io/jscroot atau jscroot.github.io/jscroot.github.io)
 4. Menggunakan implementasi token yang disimpan di cookies untuk otorisasi dan hak akses.
-5. Semua file HTML **wajib dekralasikan type module** untuk memanggil hanya js versi ES6+. Dilarang memanggil file js tanpa deklarasi type. Untuk src diisi dengan pemanggilan dari CDN jsdelivr.
+5. Semua file HTML **wajib dekralasikan type module** untuk memanggil hanya js versi ES6+. Dilarang memanggil file js tanpa deklarasi type. Untuk src diisi dengan pemanggilan dari CDN jsdelivr. Contoh:
    ```html
    <script src="https://cdn.jsdelivr.net/gh/whatsauth/js@0.0.9/whatsauth.js" type="module"></script>
    ```
