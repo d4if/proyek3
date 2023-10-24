@@ -28,7 +28,7 @@ Detail dari Kegiatan Pengerjaan Mingguan dijelaskan di bawah ini.
 7. Tambahkan file 404.html pada setiap root folder repo HTML untuk mempercantik bagi yang salah ketik URL
  
 ### Membangun Backend
-1. Seluruh API yang sudah dibuat di dokumentasikan melalui swagger yang bisa di akses di laman rootdomain/swagger dengan menyertakan info di laman swagger :
+1. Seluruh API yang sudah dibuat di dokumentasikan melalui swagger yang bisa di akses di laman rootdomain/swagger(contoh:jscroot.github.io/swagger) dengan menyertakan info di laman swagger :
    * source code swagger yang di publish
    * package yang dipublish dan digunakan di GCF
    * repo source code dari GCF
