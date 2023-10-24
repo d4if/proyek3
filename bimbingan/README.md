@@ -10,6 +10,7 @@ Persyaratan:
 8. Dimana jenis terdiri dari feat,fix,add,delete
 9. Pada saat menjalankan pomokit sudah commit minimal sebanyak 3 commit standar konvensi pada repo yang dikerjakan.
 10. Pastikan mengunduh pomokit versi terbaru selalu
+11. Pastikan email yang terdaftar di github sama dengan email yang terdaftar di aplikasi akademik siap.
 
 ## Kegiatan Pengerjaan Mingguan
 Dalam waktu kurang dari satu minggu ini bisa melakukan:
