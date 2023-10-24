@@ -17,7 +17,7 @@ Detail dari Kegiatan Pengerjaan Mingguan dijelaskan di bawah ini.
 
 ### Membangun Frontend
 1. Untuk pengerjaan HTML dan CSS di publish di github pages. Masukkan URL Github Pages pada pomokit.
-2. Untuk pengerjaan JS ditaruh di repo terpisah dari HTML dan CSS dan dipublikasikan di [jsdelivr]((https://cdn.jsdelivr.net/gh/whatsauth/js/). Masukkan URL CDN jsdelivr pada pomokit
+2. Untuk pengerjaan JS ditaruh di repo terpisah dari HTML dan CSS dan dipublikasikan di [jsdelivr](https://cdn.jsdelivr.net/gh/whatsauth/js/). Masukkan URL CDN jsdelivr pada pomokit
 3. 
  
 
