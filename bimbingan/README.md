@@ -10,7 +10,10 @@ Persyaratan:
 8. Dimana jenis standar konvensi pesan commit terdiri dari feature,fix,add,delete,update
 9. Pada saat menjalankan pomokit sudah commit minimal sebanyak 3 commit standar konvensi pada repo yang dikerjakan.
 10. Pastikan mengunduh pomokit versi terbaru selalu
-11. Pastikan email yang terdaftar di github sama dengan email yang terdaftar di aplikasi akademik siap.
+11. Pastikan email yang terdaftar terset di git bash sama dengan email yang terdaftar di aplikasi akademik siap. Cara mengecek email di git bash:
+    ```s
+    git config -l
+    ```
 
 ## Kegiatan Pengerjaan Mingguan
 Dalam waktu kurang dari satu minggu ini bisa melakukan:
