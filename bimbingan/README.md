@@ -26,34 +26,36 @@ Dalam waktu kurang dari satu minggu ini bisa melakukan:
 Detail dari Kegiatan Pengerjaan Mingguan dijelaskan di bawah ini.
 
 ### Membangun Frontend
-1. Untuk pengerjaan HTML dan CSS di publish di github pages. Masukkan URL Github Pages pada pomokit.
-2. Untuk pengerjaan **JS ditaruh di repo terpisah** dari HTML dan CSS serta dipublikasikan di jsdelivr, contoh: [URL CDN jsdelivr whatsauth](https://cdn.jsdelivr.net/gh/whatsauth/js/). Masukkan URL CDN jsdelivr pada pomokit
-3. Website sudah bisa diakses dari root domain. contoh jscroot.github.io ,tidak lagi akses dengan url panjang (misal: jscroot.github.io/jscroot atau jscroot.github.io/jscroot.github.io)
-4. Menggunakan implementasi token yang disimpan di cookies untuk otorisasi dan hak akses.
-5. Semua file HTML **wajib dekralasikan type module** untuk memanggil hanya js versi ES6+. Dilarang memanggil file js tanpa deklarasi type. Untuk src diisi dengan pemanggilan dari URL CDN jsdelivr. Contoh:
+1. Ada tida repo yang dikerjakan: repo github pages dan repo js.
+2. Untuk pengerjaan HTML dan CSS di publish di github pages. Masukkan URL Github Pages pada pomokit.
+3. Untuk pengerjaan **JS ditaruh di repo terpisah** dari HTML dan CSS serta dipublikasikan di jsdelivr, contoh: [URL CDN jsdelivr whatsauth](https://cdn.jsdelivr.net/gh/whatsauth/js/). Masukkan URL CDN jsdelivr pada pomokit
+4. Website sudah bisa diakses dari root domain. contoh jscroot.github.io ,tidak lagi akses dengan url panjang (misal: jscroot.github.io/jscroot atau jscroot.github.io/jscroot.github.io)
+5. Menggunakan implementasi token yang disimpan di cookies untuk otorisasi dan hak akses.
+6. Semua file HTML **wajib dekralasikan type module** untuk memanggil hanya js versi ES6+. Dilarang memanggil file js tanpa deklarasi type. Untuk src diisi dengan pemanggilan dari URL CDN jsdelivr. Contoh:
    ```html
    <script src="https://cdn.jsdelivr.net/gh/whatsauth/js@0.0.9/whatsauth.js" type="module"></script>
    ```
-6. Hindari penggunaan library jquery karena masih menggunakan script lama ES5 sehingga membingungkan pengembangan Frontend
-7. Tambahkan file 404.html pada setiap root folder repo HTML untuk mempercantik bagi yang salah ketik URL
+7. Hindari penggunaan library jquery karena masih menggunakan script lama ES5 sehingga membingungkan pengembangan Frontend
+8. Tambahkan file 404.html pada setiap root folder repo HTML untuk mempercantik bagi yang salah ketik URL
  
 ### Membangun Backend
-1. Seluruh API yang sudah dibuat di dokumentasikan melalui swagger versi terbaru yang bisa di akses di laman rootdomain/swagger(contoh:jscroot.github.io/swagger) dengan menyertakan info di laman swagger :
+1. Ada tiga repo yang dikerjakan: repo untuk package backend, repo source code GCF, repo untuk swagger dokumentasi api.
+2. Seluruh API yang sudah dibuat di dokumentasikan melalui swagger versi terbaru yang bisa di akses di laman rootdomain/swagger(contoh:jscroot.github.io/swagger) dengan menyertakan info di laman swagger :
    * source code swagger yang di publish
    * package yang dipublish dan digunakan di GCF
    * repo source code dari GCF
    * Servers di set sudah link URL GCF  
    ![image](https://github.com/bukped/gis/assets/11188109/8db9052d-3056-48ec-af1f-5b5b1b396ac9)
-2. Untuk pengerjaan membuat Package Backend, masukkan URL package pada pomokit. Contoh : [URL Package Peda](https://pkg.go.dev/github.com/petapedia/peda)
-3. Untuk pengerjaan membuat backend di Google Cloud Function, masukkan URL swagger. Contoh :[URL Swagger JSCroot](https://jscroot.github.io/examples/api/swagger/)
-4. Pada endpoint GCF API delete, update dan insert data sudah ditambah pengecekan token pada bagian header request. Pada swagger harus diperhatikan:
+3. Untuk pengerjaan membuat Package Backend, masukkan URL package pada pomokit. Contoh : [URL Package Peda](https://pkg.go.dev/github.com/petapedia/peda)
+4. Untuk pengerjaan membuat backend di Google Cloud Function, masukkan URL swagger. Contoh :[URL Swagger JSCroot](https://jscroot.github.io/examples/api/swagger/)
+5. Pada endpoint GCF API delete, update dan insert data sudah ditambah pengecekan token pada bagian header request. Pada swagger harus diperhatikan:
    * bisa di set di tombol Authorize  
      ![image](https://github.com/bukped/gis/assets/11188109/5d2e6ef1-eafe-40a9-8a70-6299b76131c3)
    * terdapat icon gembok  
      ![image](https://github.com/bukped/gis/assets/11188109/34716bfe-8918-4a5e-89ba-02cc655f8801)
    * Pada saat executer terdapat header token : -H 'token: asdasdasdad' \  
      ![image](https://github.com/bukped/gis/assets/11188109/dd4b787e-2701-4609-986d-7015213134c2)
-5. Semua endpoint di swagger berjalan baik ketika di klik Try It Out ![image](https://github.com/bukped/gis/assets/11188109/40c02a80-3fe1-4ebf-aa1c-b9fa05f22bb5)  
+6. Semua endpoint di swagger berjalan baik ketika di klik Try It Out ![image](https://github.com/bukped/gis/assets/11188109/40c02a80-3fe1-4ebf-aa1c-b9fa05f22bb5)  
    ![image](https://github.com/bukped/gis/assets/11188109/f14aa7e3-10de-4223-a711-1d91e7f68755)
 
 ### Mempelajari ilmu untuk membangun frontend atau backend
