@@ -3,15 +3,15 @@ Mulai Simulasi Sidang dengan penilaian :
 
 Untuk pengembang backend, tahapan presentasi:
 1. presentasikan dokumentasi swagger pastikan semua endpoint berfungsi (nilai 25)
-2. presentasikan package yang telah di buat sendiri(nilai 25)
-3. presentasikan Cloud Function yang dibuat telah pasti memanggil package buatan sendiri.(nilai 25)
-4. integrasikan dengan whatsauth.my.id(nilai 25)
+2. presentasikan package yang telah di buat sendiri (nilai 25)
+3. presentasikan Cloud Function yang dibuat telah pasti memanggil package buatan sendiri. (nilai 25)
+4. integrasikan dengan whatsauth.my.id (nilai 25)
 
 Untuk pengembang frontend, tahapan presentasi:
-1. presentasikan semua rilis versi di jsdelivr dari semua js buatan sendiri yang dipakai frontend(nilai 25)
-2. presentasikan pemanggilan jsdelivr pada html yang sudah pasti pakai type module(nilai 25)
-3. presentasikan kelengkapan css, favicon, 404.html, modal, transisi, loading, responsive.(nilai 25)
-4. sudah memakai custom domain .my.id pada github pages nya.(nilai 25)
+1. presentasikan semua rilis versi di jsdelivr dari semua js buatan sendiri yang dipakai frontend (nilai 25)
+2. presentasikan pemanggilan jsdelivr pada html yang sudah pasti pakai type module (nilai 25)
+3. presentasikan kelengkapan css, favicon, 404.html, modal, transisi, loading, responsive. (nilai 25)
+4. sudah memakai custom domain .my.id pada github pages nya. (nilai 25)
 
 Pastikan simulasi pra sidang terus menerus per minggu sampai mencapai titik nilai maksimal yang akan di inputkan oleh pembimbing sebelum sidang.
 
