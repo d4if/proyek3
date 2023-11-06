@@ -1,5 +1,5 @@
 # Proses Bimbingan Tahap Prasidang Proyek 3
-Mulai Simulasi Sidang dengan penilaian :
+Mulai Simulasi Sidang bersama pembimbing dengan penilaian :
 
 Untuk pengembang backend, tahapan presentasi:
 1. presentasikan dokumentasi swagger pastikan semua endpoint berfungsi (nilai 25)
