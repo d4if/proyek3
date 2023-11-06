@@ -1,5 +1,5 @@
 # Proses Bimbingan Tahap Prasidang Proyek 3
-Setiap Minggu Simulasi Sidang :
+Mulai Simulasi Sidang dengan penilaian :
 
 Untuk pengembang backend, tahapan presentasi:
 1. presentasikan dokumentasi swagger pastikan semua endpoint berfungsi (nilai 25)
@@ -7,7 +7,7 @@ Untuk pengembang backend, tahapan presentasi:
 3. presentasikan Cloud Function yang dibuat telah pasti memanggil package buatan sendiri.(nilai 25)
 4. integrasikan dengan whatsauth.my.id(nilai 25)
 
-Untuk pengembang frontend, presentasikan:
+Untuk pengembang frontend, tahapan presentasi:
 1. presentasikan semua rilis versi di jsdelivr dari semua js buatan sendiri yang dipakai frontend(nilai 25)
 2. presentasikan pemanggilan jsdelivr pada html yang sudah pasti pakai type module(nilai 25)
 3. presentasikan kelengkapan css, favicon, 404.html.(nilai 25)
