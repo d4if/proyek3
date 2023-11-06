@@ -13,6 +13,7 @@ Untuk pengembang frontend, tahapan presentasi:
 3. presentasikan kelengkapan css, favicon, 404.html.(nilai 25)
 4. sudah memakai custom domain .my.id pada github pages nya.(nilai 25)
 
+Pastikan simulasi sampai mencapai titik nilai maksimal yang akan di inputkan oleh pembimbing sebelum sidang.
 
 ## Proses Bimbingan
 Proses Bimbingan Tetap dilakukan:
