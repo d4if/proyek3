@@ -10,7 +10,7 @@ Untuk pengembang backend, tahapan presentasi:
 Untuk pengembang frontend, tahapan presentasi:
 1. presentasikan semua rilis versi di jsdelivr dari semua js buatan sendiri yang dipakai frontend (nilai 25)
 2. presentasikan pemanggilan jsdelivr pada html yang sudah pasti pakai type module (nilai 25)
-3. presentasikan kelengkapan css, favicon, 404.html, modal, transisi, loading, responsive. (nilai 25)
+3. presentasikan kelengkapan css, favicon, 404.html, modal, transisi, loading, responsive dan hasil analisis dari gtmetrix.com (nilai 25)
 4. sudah memakai custom domain .my.id pada github pages nya. (nilai 25)
 
 Pastikan simulasi pra sidang terus menerus per minggu sampai mencapai titik nilai maksimal yang akan di inputkan oleh pembimbing sebelum sidang.
