@@ -7,4 +7,4 @@ Pastikan sudah mengisi bagian tab :
 2. Frontend
 3. Persyaratan Sidang
 
-Rename nama file menjadi : urlghpages-npm1-npm2.xlsx
+Rename nama file menjadi : domainghpages-npm1-npm2.xlsx
