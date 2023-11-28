@@ -6,3 +6,5 @@ Pastikan sudah mengisi bagian tab :
 1. Backend
 2. Frontend
 3. Persyaratan Sidang
+
+Renama nama file menjadi : urlghpages-npm1-npm2.xlsx
